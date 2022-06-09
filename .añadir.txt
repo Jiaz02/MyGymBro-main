@@ -1,0 +1,16 @@
+
+
+PARA LOS RETOS: CREARLOS EN EL JSON Y QUE EL USUARIO SOBREESCRIBA EL JSON CAMBIANDO EL BOOL DE COMPLETADO.
+    Leerlos del json, y si lo completas lo elimina del json y lo sube a la base de datos, si no hay mas retos poner un mensaje tipo estas demasiado mamado, pronto habra mas retos ;)
+
+
+CASI NEGRO PARA LAS TARJETAS:  #303030
+
+TOKEN PARA FIREBASE: 
+https://identitytoolkit.googleapis.com/v1/accounts:signUp?key=AIzaSyC7oi6d2C3_dDuAXLImUpBMxvOS2_Ympu0
+
+Yo pondría, músculos principales y secuandarios
+Los principales actuarían como actuan ahora
+Y los secundarios aparecerían como dato al mirar el ejercicio. Pero no en el desplegable
+
+Mensajes si no rellenas algun campo, ta feo

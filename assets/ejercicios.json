@@ -1,0 +1,253 @@
+{
+    "ejercicio": [
+        {
+            "name": "Sentadilla",
+            "tip": "Asegurate de 'romper la paralela' al bajar y baja todo lo que puedas. Si te duele la espalda, pueba a hacerla en un 'multi power'. No bajes mucho el pecho, a mayor verticalidad, menor peligro.",
+            "muscle": [
+                "Cuadriceps",
+                "Gluteos",
+                "Femoral"
+            ],
+            "url":"assets/sentadilla.gif"
+        },
+        {
+            "name": "Peso Muerto",
+            "tip": "Solo si te mueve la pasion por levantar, es muy peligroso para un levantador no profesional",
+            "muscle": [
+                "Cuadriceps",
+                "Gluteos",
+                "Femoral",
+                "Dorsal"
+            ],
+            "url":"assets/deadlift.gif"
+        },
+        {
+            "name": "Hip Thrust",
+            "tip": "Coloca las escapulas en el borde del banco, ni la cervical, ni el lumbar.",
+            "muscle": [
+                "Gluteos",
+                "Cuadriceps",
+                "Isquiosurales",
+                "Abdomen"
+            ],
+            "url":"assets/hipthrust.gif"
+        },        
+        {
+            "name": "Press Banca con Barra",
+            "tip": "Baja hasta rozar el pectoral. Abre más el agarre para que el triceps intervenga menos. Segun la inclinacion (15 a 30) o declinacion (-15 a -30) del banco se reclutan mas fibras superiores o inferiores respectivamente.",
+            "muscle": [
+                "Pectoral",
+                "Triceps",
+                "Deltoides anterior"
+            ],
+            "url":"assets/pressbanca.gif"
+        },
+        {
+            "name": "Dominada",
+            "tip": "Cambiando el agarre entre prono, supino y neutro no varian los musculos que se usan pero si los cambia el movimiento, entre aduccion y extension varian los porcentajes de intervencion.",
+            "muscle": [
+                "Dorsal",
+                "Trapecio",
+                "Biceps",
+                "Oblicuos",
+                "Triceps",
+                "Pectoral"
+            ],
+            "url":"assets/dominadas.gif"
+        },
+        {
+            "name": "Press de Banca con Mancuernas",
+            "tip": "Al tener los brazos en paralelo sobre el suelo intenta manter los codos a 90 y no choques las mancuernas al finalizar el movimiento. Segun la inclinacion (15 a 30) o declinacion (-15 a -30) del banco se reclutan mas fibras superiores o inferiores respectivamente.",
+            "muscle": [
+                "Pectoral",
+                "Triceps",
+                "Deltoides anterior"
+            ],
+            "url":"assets/press_horizontal_mancuerna.gif"
+        },
+        {
+            "name": "Cruces en polea",
+            "tip": "Flexiona ligeramente los brazos. Juega con las diferentes alturas de las poleas para cambiar el reclutamiento de las fibras del pectoral. Baja el peso o para al notar dolor en el hombro.",
+            "muscle": [
+                "Pectoral",
+                "Deltoides anterior"
+            ],
+            "url":"assets/crucespolea.gif"
+        },
+        {
+            "name": "Fondos",
+            "tip": "Intenta 'romper la paralela' al bajar. Segun la verticalidad del movimiento y apertura del agarre puedes hacer que intervenga mas el pectoral. Pruebalo con peso ;) ",
+            "muscle": [
+                "Triceps",
+                "Pectoral",
+                "Deltoides anterior"
+            ],
+            "url":"assets/fondos.gif"
+        },
+        {
+            "name": "Triceps el polea alta",
+            "tip": "Intenta no mover los codos, flexiona ligeramente las rodillas y evita balanceos. Curva ligeramente tu espalda para evitar contradicciones en el movimiento que puedan causar dolores en la espalda.",
+            "muscle": [
+                "Triceps"
+            ],
+            "url":"assets/tricepspoleaalta.gif"
+        },
+        {
+            "name": "Contractora",
+            "tip": "Flexiona ligeramente los codos, juega con la altura del asiento para cambiar las fibras intervinientes del pectoral. Si te duele el hombro es mejor parar.",
+            "muscle": [
+                "Pectoral",
+                "Deltoides anterior"
+            ],
+            "url":"assets/contractora.gif"
+        },
+        {
+            "name": "Triceps en polea sobre la cabeza",
+            "tip": "Evita mover los codos y baja todo lo que tu flexibilidad te permita.",
+            "muscle": [
+                "Triceps"
+            ],
+            "url":"assets/tricepspoleasobrecabeza.gif"
+        },
+        {
+            "name": "Jalon",
+            "tip": "Segun la amplitud del agarre cambiaremos el porcentaje de intervencion de los diferentes musculos que participan. Evita mover la espalda hacia atras para reducir la intervencion del lumbar y asi no dañarte.",
+            "muscle": [
+                "Dorsal",
+                "Triceps",
+                "Biceps",
+                "Trapecio",
+                "Deltoides posterior"
+            ],
+            "url":"assets/jalon.gif"
+        },
+        {
+            "name": "Remo",
+            "tip": "Segun la amplitud del agarre cambiaremos el porcentaje de intervencion de los diferentes musculos que participan. Asegurate de ejercer la fuerza con el dorsal y no el biceps al llevar la polea al pecho. Evita mover la espalda hacia atras para reducir la intervencion del lumbar y asi no dañarte.",
+            "muscle": [
+                "Dorsal",
+                "Triceps",
+                "Biceps",
+                "Trapecio",
+                "Deltoides posterior"
+            ],
+            "url":"assets/remo.gif"
+        },
+        {
+            "name": "Pull over en polea",
+            "tip": "Flexiona ligeramente las rodillas y evita balanceos. Tambien se puede hacer en un banco plano con mancuernas, pero el rango de movimiento efectivo es muy reducido, es peligroso por tener una mancuerna muy pesada sobre la cabeza sin un agarre seguro. NO TRABAJA A PENAS EL PECTORAL.",
+            "muscle": [
+                "Dorsal",
+                "Triceps",
+                "Trapecio"
+            ],
+            "url":"assets/pullover.gif"
+        },
+        {
+            "name": "Curl de biceps",
+            "tip": "Con barra, en polea o con mancuernas asegurate de tener un agarre supino en todo momento y evita balanceos. Al flexionar completamente el codo puedes flexionar tambien un poco el deltoides para contraer del todo el biceps puesto que tambien es flexor del hombro.",
+            "muscle": [
+                "Biceps",
+                "Demás flexores del codo"
+            ],
+            "url":"assets/curl.gif"
+        },
+        {
+            "name": "Curl de biceps con banco inclinado",
+            "tip": "Al sentarnos en un banco nos será más facil evitar balanceos. Si incliamos 5 o 10 el banco el movimiento sera mas aislado en el biceps, el peso que puedas mover se va a ver reducido.",
+            "muscle": [
+                "Biceps",
+                "Demás flexores del codo"
+            ],
+            "url":"assets/curlbanco.gif"
+        },
+        {
+            "name": "Curl de biceps martillo",
+            "tip": "Al usar el agarre 'martillo' o neutro reducimos la intervencion del biceps lo que nos permite inferir mas en los demas flexores del codo.",
+            "muscle": [
+                "Biceps",
+                "Demás flexores del codo"
+            ],
+            "url":"assets/martillo.gif"
+        },
+        {
+            "name": "Curl de biceps prono",
+            "tip": "Al usar el agarre prono reducimos la intervencion del biceps lo que nos permite inferir mas en los demas flexores del codo.",
+            "muscle": [
+                "Biceps",
+                "Demás flexores del codo"
+            ],
+            "url":"assets/curl-prono.gif"
+        },
+        {
+            "name": "Curl de biceps en banco Scott",
+            "tip": "Al tener los codos adelantados y apoyados en el banco podemos aislar el biceps. Asegurate de bajar hasta tener el brazo extendido. Baja el peso respecto al curl habitual y ante la mas minima molestia para.",
+            "muscle": [
+                "Biceps",
+                "Demás flexores del codo"
+            ],
+            "url":"assets/scott.gif"
+        },
+        {
+            "name": "Prensa",
+            "tip": "En las diferentes versiones de la prensa, baja todo lo posible sin despegar los gluteos del asiento y sin curvar la espalda. Nunca extiendas por completo las rodillas al finalizar el movimiento.",
+            "muscle": [
+                "Cuadriceps",
+                "Isquiosurales"
+            ],
+            "url":"assets/prensa.gif"
+        },
+        {
+            "name": "Sentadilla bulgara",
+            "tip": "Siempre unilateral, a mayor separacion del pie de tu apoyo mayor intervencion del cuadriceps y menor del gluteo y vice versa. Baja con la espalda en vertical y evita movimientos laterales de la rodilla.",
+            "muscle": [
+                "Cuadriceps",
+                "Isquiosurales"
+            ],
+            "url":"assets/bulgara.gif"
+        },
+        {
+            "name": "Zancadas",
+            "tip": "Siempre unilateral, a mayor separacion del pie de tu apoyo mayor intervencion del cuadriceps y menor del gluteo y vice versa. Baja con la espalda en vertical y evita movimientos laterales de la rodilla.",
+            "muscle": [
+                "Cuadriceps",
+                "Isquiosurales"
+            ],
+            "url":"assets/zancadas.gif"
+        },
+        {
+            "name": "Extension de rodillas",
+            "tip": "Busca encajar tu hueco popliteo en el borde del asiento y manten en todo momento los gluteos pegados al asiento. Busca extender completamente las rodillas. Prueba a mantener medio segundo la completa extension antes de iniciar la fase negativa ;).",
+            "muscle": [
+                "Cuadriceps",
+                "Isquiosurales"
+            ],
+            "url":"assets/extension.gif"
+        },
+        {
+            "name": "Flexion de rodillas",
+            "tip": "Mucho cuidado en la fase negativa por el peligro que supone. Busca en la fase positiva contraer todo lo posible el musculo. Si lo haces tumbado evita los bancos planos para evitar dolor en el lumbar.",
+            "muscle": [
+                "Isquiosurales"
+            ],
+            "url":"assets/flexion.gif"
+        },
+        {
+            "name": "Flexion de tobillo",
+            "tip": "Sube y baja lentamete y siempre con un recorrido completo.",
+            "muscle": [
+                "Gemelos",
+                "Soleo"
+            ],
+            "url":"assets/gemelos.gif"
+        },
+        {
+            "name": "Flexion de tobillo en banco",
+            "tip": "Sube y baja lentamete y siempre con un recorrido completo. Al estar sentado aislamos el soleo inhibiendo el gemenlo.",
+            "muscle": [
+                "Soleo"
+            ],
+            "url":"assets/sentado.gif"
+        }
+    ]
+}

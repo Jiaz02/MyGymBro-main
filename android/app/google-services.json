@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "396383174257",
+    "firebase_url": "https://mygymbro-f072a-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mygymbro-f072a",
+    "storage_bucket": "mygymbro-f072a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396383174257:android:cd3a1767a3d4b1cd7ea5d0",
+        "android_client_info": {
+          "package_name": "com.example.my_gym_bro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396383174257-dp6k6s119lua3uv0ubfn6spvpttjsr4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBp3u2Ipid7hvRdYRMrsJNVkpECAHZK0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396383174257-dp6k6s119lua3uv0ubfn6spvpttjsr4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

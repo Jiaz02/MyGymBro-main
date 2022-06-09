@@ -1,0 +1,40 @@
+{
+    "retos":[
+        {
+            "completado": false,
+            "nombre": "Sacar 100 en Press de Banca"
+        },
+        {
+            "completado": false,
+            "nombre": "Sacar 150 en Sentadilla"
+        },
+        {
+            "completado": false,
+            "nombre": "Sacar 150 en Prensa"
+        },
+        {
+            "completado": false,
+            "nombre": "Sacar 200 en Prensa"
+        },
+        {
+            "completado": false,
+            "nombre": "Sacar 150 en Press de Banca"
+        },
+        {
+            "completado": false,
+            "nombre": "Sacar 200 en Sentadilla"
+        },
+        {
+            "completado": false,
+            "nombre": "Sacar 350 en Prensa"
+        },
+        {
+            "completado": false,
+            "nombre": "Sacar 150 en Peso Muerto"
+        },
+        {
+            "completado": false,
+            "nombre": "Sacar 250 en Peso Muerto"
+        }
+    ]
+}
